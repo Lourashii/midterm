@@ -1,0 +1,22 @@
+body {
+	background-color: green;
+}
+
+table, tr, td {
+	border: 2px solid black;
+}
+#display-casing {
+	column-span: 3;
+}
+
+#display {
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-size: 30px;
+	max-width: 100%;
+}
+
+.button {
+	padding: 20px 52px;
+	font-size: 15px;
+}
